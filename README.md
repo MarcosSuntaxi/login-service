@@ -15,11 +15,11 @@ This microservice allows users to log into the system.
 2. Install dependencies with `npm install`.
 3. Configure environment variables in a `.env` file:
 
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=your_password
-DB_NAME=user_database
-DB_PORT=3306
+    DB_HOST=localhost
+    DB_USER=root
+    DB_PASSWORD=your_password
+    DB_NAME=user_database
+    DB_PORT=3306
 
 4. Start the server: `npm start`.
 
